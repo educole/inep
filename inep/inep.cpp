@@ -4,7 +4,9 @@ int main()
 	std::string entrada;
 	std::cout << "Hola INEP!\n";
 	std::cout << "----------\n";
-	std::cout << "Escriu un nombre:";
+	std::cout << "Escriu un nom:";
 	std::cin >> entrada;
-	std::cout << "Has escollit el nombre " + entrada + "\n";
+	std::cout << "Has escollit el nom " + entrada + "\n";
 }
+
+// primer cambio
